@@ -1,3 +1,4 @@
+# My personal blog [AL's BLog](http://120.46.176.74:8080/ has been released! Be in anticipation of your visit!
 ### Hi 👋 I am Aidan Lew ,  a Latent Fool
 
 - ✌ I am an undergraduate at School of Software Engineering, NPU.
