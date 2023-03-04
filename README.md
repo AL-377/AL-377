@@ -8,9 +8,13 @@
 - 💞️I am looking for like-minded partners who'd like to do research in Knowledge Graph. 
 - 📫How to reach me -- ljt20233023@163.com
 - 🌝Welcome to my personal blog [AL's BLog](http://www.yuguang.zone/)
+
+
+### Latest Projects 💌
+- [DeskTip：A desktop aid for daily schedule](https://github.com/AL-377/DeskTip)
+
+
 <div  align="center">
 <img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
 </div>
 
-### Latest Projects 💌
-- [DeskTip：A desktop aid for daily schedule](https://github.com/AL-377/DeskTip)
