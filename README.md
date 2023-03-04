@@ -12,5 +12,5 @@
 <img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
 </div>
 
-### Recent Projects
+### Latest Projects 💌
 - [DeskTip：A desktop aid for daily schedule](https://github.com/AL-377/DeskTip)
