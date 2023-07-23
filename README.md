@@ -11,7 +11,8 @@
 
 
 ### Latest Projects 💌
-- [DeskTip：A desktop aid for daily schedule](https://github.com/AL-377/DeskTip)
+- [ALBlog：The code of Aidan Lew's Blog](https://github.com/AL-377/ALBlog)
+- [Hackthon2023-GPT：The GPT api of Hackthon2023](https://github.com/AL-377/Hackthon2023-GPT)
 
 
 <div  align="center">
