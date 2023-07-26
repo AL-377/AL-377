@@ -9,6 +9,8 @@
 - 📫How to reach me -- ljt20233023@163.com
 - 🌝Welcome to my personal blog [AL's BLog](http://www.yuguang.zone/)
 
+### News 📰
+- We won the First Prize of [Neo APAC Hackathon Tokyo](https://twitter.com/Neo_Blockchain/status/1683084794777997313?s=20)!🎉🎉🎉
 
 ### Latest Projects 💌
 - [ALBlog：The code of Aidan Lew's Blog](https://github.com/AL-377/ALBlog)
