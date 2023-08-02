@@ -1,6 +1,4 @@
-## My personal blog [AL's BLog](http://www.yuguang.zone/) has been released! Be in anticipation of your visit!
-
-### Hi 👋 I am Aidan Lew ,  a Latent Fool
+## Hi 👋 I am Aidan Lew ,  a Latent Fool
 
 - ✌ I am an undergraduate at School of Software Engineering, NPU.
 - 👀I am interested in CV , NLP , VR and Game.
