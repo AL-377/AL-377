@@ -1,8 +1,7 @@
 ## Hi 👋 I am Aidan Lew ,  a Latent Fool
 
-- ✌ I am an undergraduate at School of Software Engineering, NPU.
-- 👀I am interested in CV , NLP , VR and Game.
-- 🌱I am a member of NPU's soccer robot group.
+- ✌ I got my bachelor's degree(Software Engineering) from Northwestern Polytechnical University (NPU) and I am going to Peking University (PKU) for further study.
+- 👀I am interested in NLP , Magic and Music.
 - 💞️I am looking for like-minded partners who'd like to do research in LLM. 
 - 📫How to reach me -- ljt20233023@163.com
 - 🌝Welcome to my personal blog [AL's BLog](http://www.yuguang.zone/)
