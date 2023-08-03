@@ -9,7 +9,7 @@
 
 ### News 📰
 - 【20230706】 Got the bachelor's degree(Software Engineering) from NPU! Happy graduation!🎉
-- 【20230723】 Won the First Prize of [Neo APAC Hackathon Tokyo](https://twitter.com/Neo_Blockchain/status/1683084794777997313?s=20) with KEKKAI!🎉🎉
+- 【20230723】 Won the First Prize of [Neo APAC Hackathon Tokyo](https://hackathon.neo.org/station/tokyo/) with KEKKAI!🎉🎉
 
 ### Latest Projects 💌
 - [ALBlog：The code of Aidan Lew's Blog](https://github.com/AL-377/ALBlog)
