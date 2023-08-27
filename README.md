@@ -13,8 +13,6 @@
 
 ### Latest Projects 💌
 - [ALBlog：The code of Aidan Lew's Blog](https://github.com/AL-377/ALBlog)
-- [Hackathon2023-GPT：The code of Smart Contract Analysis for Hackathon 2023](https://github.com/AL-377/Hackathon2023-GPT)
-
 
 <div  align="center">
 <img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
