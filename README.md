@@ -5,7 +5,7 @@
 - 👀Interested in NLP , Magic and Music.
 - 💞️Looking for like-minded partners who'd like to do research in LLM. 
 - 📫How to reach me -- ljt20233023@163.com
-- 🌝Welcome to my personal blog [AL's BLog](http://www.yuguang.zone/)
+- 🌝Welcome to my personal blog [AL's BLog](https://al-377.github.io/about/)
 
 ### News 📰
 - 【20230706】 Got the bachelor's degree(Software Engineering) from NPU! Happy graduation!🎉
