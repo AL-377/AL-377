@@ -1,7 +1,7 @@
 ## Hi 👋 I am Aidan Lew ,  a Latent Fool
 
 - ✌ Graduated from Northwestern Polytechnical University (NPU), majored in Software Engineering (bachelor)
-- ⏰Going to Peking University (PKU) for further study.
+- ⏰ A postgraduate in Peking University (PKU).
 - 👀Interested in NLP , Magic and Music.
 - 💞️Looking for like-minded partners who'd like to do research in LLM. 
 - 📫How to reach me -- ljt20233023@163.com
