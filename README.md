@@ -4,7 +4,7 @@
 - ⏰ A postgraduate in Peking University (PKU).
 - 👀 Interested in NLP , Magic and Music.
 - 💞️ Looking for like-minded partners who'd like to do research in LLM. 
-- 📫 How to reach me -- ljt20233023@163.com
+- 📫 How to reach me -- aidan.lew.37@stu.pku.edu.cn
 
 ### News 📰
 - 【20230723】Won the First Prize of [Neo APAC Hackathon Tokyo](https://hackathon.neo.org/station/tokyo/) with **KEKKAI**!🎉🎉
