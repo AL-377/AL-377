@@ -18,6 +18,6 @@
 </div>
 
 
-Total stars from the Repo contributed: <!-- total-stars-placeholder -->
+Total stars from the contributed Repo : <!-- total-stars-placeholder -->
 
 
