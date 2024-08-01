@@ -16,8 +16,3 @@
 <div  align="center">
 <img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
 </div>
-
-
-Total stars from the Repo contributed: <!-- total-stars-placeholder -->
-
-

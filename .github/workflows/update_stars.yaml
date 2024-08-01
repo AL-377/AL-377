@@ -1,0 +1,37 @@
+name: Update Star Count
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # 每分钟运行一次
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Get total star count
+      id: get-stars
+      run: |
+        total_stars=0
+        repos=("OpenBMB/XAgent" "microsoft/UFO" "outlines-dev/outlines")  # 替换为你贡献过的仓库
+        for repo in "${repos[@]}"; do
+          stars=$(curl -s "https://api.github.com/repos/$repo" | jq -r '.stargazers_count')
+          total_stars=$((total_stars + stars))
+        done
+        echo "TOTAL_STARS=$total_stars" >> $GITHUB_ENV
+
+    - name: Update README with star count
+      run: |
+        echo "Total stars from my repositories: $TOTAL_STARS" > README.md
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update star count"
+        git push
+      env:
+        TOTAL_STARS: ${{ env.TOTAL_STARS }}
+
