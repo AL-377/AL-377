@@ -1,4 +1,4 @@
-## Hi 👋 I am Aidan Lew ,  a Latent Fool
+## Hi 👋 I am Aidan Lew,  a Latent Fool
 
 - ✌ Graduated from Northwestern Polytechnical University (NPU), majored in Software Engineering (bachelor)
 - ⏰ A postgraduate in Peking University (PKU).
