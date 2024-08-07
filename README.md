@@ -12,6 +12,7 @@
 
 ### Latest Projects 💌
 - [XAgent](https://github.com/OpenBMB/XAgent): **An Autonomous Agent for Complex Task Solving** ![Github stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg)
+- [UFO](https://github.com/microsoft/UFO): **A UI-Focused Agent for Windows OS Interaction** ![Github stars](https://img.shields.io/github/stars/microsoft/UFO.svg)
 
 <div  align="center">
 <img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
