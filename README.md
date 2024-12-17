@@ -9,6 +9,7 @@
 ### News 📰
 - 【20230723】Won the First Prize of [Neo APAC Hackathon Tokyo](https://hackathon.neo.org/station/tokyo/) with **KEKKAI**!🎉🎉
 - 【20231123】We released the **XAgent** v1.0.0! 🎉🎉🎉
+- 【20241213】We released the code and sample data for **Large Action Model (LAM)** data collection with UFO! Please checkout our [new paper](https://arxiv.org/abs/2412.10047), [code](dataflow/README.md) and [documentation](https://microsoft.github.io/UFO/dataflow/overview/) for more details.    
 
 ### Latest Projects 💌
 - [XAgent](https://github.com/OpenBMB/XAgent): **An Autonomous Agent for Complex Task Solving** ![Github stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg)
