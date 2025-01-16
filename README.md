@@ -7,6 +7,7 @@
 - 📫 How to reach me -- aidan.lew.37@stu.pku.edu.cn
 
 ### News 📰
+- 【20231123】We released the **XAgent** v1.0.0! 🎉🎉🎉
 - 【20241213】We released the **UFO** v1.2.0 with the code and sample data for **Large Action Model (LAM)** data collection! Please checkout our [new paper](https://arxiv.org/abs/2412.10047) and [documentation](https://microsoft.github.io/UFO/dataflow/overview/) for more details.    
 
 ### Latest Projects 💌
