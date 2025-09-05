@@ -9,9 +9,11 @@
 ### News 📰
 - 【20231123】We released the **XAgent** v1.0.0! 🎉🎉🎉
 - 【20241213】We released the **UFO** v1.2.0 with the code and sample data for **Large Action Model (LAM)** data collection! Please checkout our [new paper](https://arxiv.org/abs/2412.10047) and [documentation](https://microsoft.github.io/UFO/dataflow/overview/) for more details.
-- 【20250222】We released **EasyR1** 🎉🎉🎉, an Efficient, Scalable, Multi-Modality RL Training Framework based on veRL. 
+- 【20250222】We released **EasyR1** 🎉🎉🎉, an Efficient, Scalable, Multi-Modality RL Training Framework based on veRL.
+- 【20250904】We’re excited to announce the release the **UI-TARS-2**, which is a major upgrade from UI-TARS-1.5, featuring with enhanced capabilities in GUI, Game, Code and Tool Use. It is an "All In One" Agent model, enabling seamless integration of multiple abilities for complex tasks. Please check our new [technical report](https://arxiv.org/abs/2509.02544) for more details. Refer to more fantastic showcases at our [website](https://seed-tars.com/showcase/ui-tars-2/).
 
 ### Latest Projects 💌
+- [UI-TARS](https://github.com/bytedance/UI-TARS): **An Open-Source Multimodal Agent built upon a powerful Vision-Language Model** ![Github stars](https://img.shields.io/github/stars/bytedance/UI-TARS.svg)
 - [XAgent](https://github.com/OpenBMB/XAgent): **An Autonomous Agent for Complex Task Solving** ![Github stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg)
 - [UFO](https://github.com/microsoft/UFO): **A UI-Focused Agent for Windows OS Interaction** ![Github stars](https://img.shields.io/github/stars/microsoft/UFO.svg)
 - [EasyR1](https://github.com/hiyouga/EasyR1): **An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL** ![Github stars](https://img.shields.io/github/stars/hiyouga/EasyR1.svg)
