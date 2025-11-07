@@ -7,10 +7,8 @@
 - 📫 How to reach me -- aidan.lew.37@stu.pku.edu.cn
 
 ### News 📰
-- 【20231123】We released the **XAgent** v1.0.0! 🎉🎉🎉
-- 【20241213】We released the **UFO** v1.2.0 with the code and sample data for **Large Action Model (LAM)** data collection! Please checkout our [new paper](https://arxiv.org/abs/2412.10047) and [documentation](https://microsoft.github.io/UFO/dataflow/overview/) for more details.
-- 【20250222】We released **EasyR1** 🎉🎉🎉, an Efficient, Scalable, Multi-Modality RL Training Framework based on veRL.
 - 【20250904】We’re excited to announce the release the **UI-TARS-2**, which is a major upgrade from UI-TARS-1.5, featuring with enhanced capabilities in GUI, Game, Code and Tool Use. It is an "All In One" Agent model, enabling seamless integration of multiple abilities for complex tasks. Please check our new [technical report](https://arxiv.org/abs/2509.02544) for more details. Refer to more fantastic showcases at our [website](https://seed-tars.com/showcase/ui-tars-2/).
+- More Infro turn to my [blog](https://al-377.github.io/) 💌 !
 
 ### Latest Projects 💌
 - [UI-TARS](https://github.com/bytedance/UI-TARS): **An Open-Source Multimodal Agent built upon a powerful Vision-Language Model** ![Github stars](https://img.shields.io/github/stars/bytedance/UI-TARS.svg)
