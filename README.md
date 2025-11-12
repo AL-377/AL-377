@@ -8,7 +8,7 @@
 
 ### News 📰
 - 【20250904】We’re excited to announce the release the **UI-TARS-2**, which is a major upgrade from UI-TARS-1.5, featuring with enhanced capabilities in GUI, Game, Code and Tool Use. It is an "All In One" Agent model, enabling seamless integration of multiple abilities for complex tasks. Please check our new [technical report](https://arxiv.org/abs/2509.02544) for more details. Refer to more fantastic showcases at our [website](https://seed-tars.com/showcase/ui-tars-2/).
-- More Infro turn to my [blog](https://al-377.github.io/) 💌 !
+- Trace me on [blog](https://al-377.github.io/) 💌 
 
 ### Latest Projects 💌
 - [UI-TARS](https://github.com/bytedance/UI-TARS): **An Open-Source Multimodal Agent built upon a powerful Vision-Language Model** ![Github stars](https://img.shields.io/github/stars/bytedance/UI-TARS.svg)
